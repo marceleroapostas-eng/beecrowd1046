@@ -1,8 +1,8 @@
-\# Beecrowd 1046 - Tempo de Jogo
+# Beecrowd 1046 - Tempo de Jogo
 
 
 
-\## Descrição
+## Descrição
 
 
 
@@ -10,19 +10,19 @@ Este programa resolve o problema 1046 do Beecrowd.
 
 
 
-\## Tecnologias utilizadas
+## Tecnologias utilizadas
 
 
 
-\- Java
+- Java
 
-\- NetBeans
+- NetBeans
 
-\- Maven
+- Maven
 
 
 
-\## Entrada
+## Entrada
 
 
 
@@ -30,7 +30,7 @@ A entrada contém dois valores inteiros que representam a hora de início e a ho
 
 
 
-\## Saída
+## Saída
 
 
 
@@ -38,11 +38,11 @@ O programa apresenta a duração do jogo no formato:
 
 
 
-\*\*O JOGO DUROU X HORA(S)\*\*
+**O JOGO DUROU X HORA(S)**
 
 
 
-\## Autor
+## Autor
 
 
 
